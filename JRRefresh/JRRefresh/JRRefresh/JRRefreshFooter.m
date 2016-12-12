@@ -83,7 +83,7 @@
     }else {
         self.isHideFooter = _manualHideFooter;
     }
-}
+}   
 
 
 
